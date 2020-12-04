@@ -1,4 +1,4 @@
-This application demonstrates caching with the help of Ehcache 3. 
+This application demonstrates caching with the help of **Ehcache 3**. 
 The example is made from the tutorial of [Spring Framwork Guru](https://springframework.guru/using-ehcache-3-in-spring-boot).
 
 * Clone repo
